@@ -1,0 +1,79 @@
+[
+  {
+    "time": "2022.3 — 2022.5",
+    "unit": "National Institute of Biological Sciences, Beijing(the top biological research institute in China)",
+    "name": "Fish house management and automatic feeding system for African killifish",
+    "role": "All tasks in UI, Software Development, DevOps and Esp8266 Development",
+    "description": "Set the regular feeding time for each fish tank, or you can feed immediately as needed. Each time you feed, rotate the stepper motor, use the light intensity module to detect whether there is any feed falling, and manage fish tank information, duty information, and operation records. wait until",
+    "skill": "React/TypeScript、Golang、Mongodb、Redis、MQTT、Kubernetes、espidf"
+  },
+  {
+    "time": "2022.8 — ",
+    "name": "Smart Agriculture Project",
+    "role": "All tasks in UI, Software Development and Esp32 Development",
+    "description": "Display real-time temperature and humidity, light intensity, carbon dioxide concentration, etc., as well as historical information, working conditions such as shutter sprinklers, equipment alarm information, etc., control the start and stop of each equipment",
+    "skill": "Solid.js/TypeScript、D3js、Golang、Rust、Rtsp、Redis、influxDB、WebSocket、espidf、Nginx"
+  },
+  {
+    "time": "2022.9 — ",
+    "unit": "School of Life Sciences, Sun Yat-Sen University",
+    "name": "Grouper species identification and phenotype extraction equipment",
+    "role": "All tasks",
+    "description": "There are as many as thirty or forty species of common groupers, and many of them are hybrid species, and it is difficult for most people to distinguish between different species. Phenotypic detection is to quickly extract phenotypic information such as eye distance, body length and height, and the number of fins by using cameras such as mobile phones or computers to solve the time-consuming and labor-intensive problem of traditional manual measurement.",
+    "skill": "React/TypeScript、Rust、Python、TensorFlow"
+  },
+  {
+    "time": "2021.10 — ",
+    "unit": "Guangzhou University School of Entrepreneurship",
+    "name": "Autonomous Knowledge Discovery System(Guangdong Province Independent Intellectual Property Project)",
+    "role": "All tasks in UI, Software Development and Deep Learning",
+    "description": "At present, the first part is basically completed. The review data such as air conditioners are crawled through the e-commerce website api, and the user's satisfaction and opinions on the air conditioner price, appearance, power consumption, effect, after-sales, etc. are obtained through semi-supervised learning. The second part is Text knowledge graph extraction, using the nlp model to extract the relationship graph from the article; the third part is the traceability of agricultural products combined with blockchain",
+    "skill": "Next.js/TypeScript、D3js、Rust、Golang、Minio、HyperLedger、mongoDB、Redis、Python、TensorFlow、Kubernetes、Istio"
+  },
+  {
+    "time": "2021.9 — 2021.10",
+    "name": "Tangerine Peel Year Recognition Graph Neural Network",
+    "role": "Graph Neural Network Training",
+    "description": "Extracted and analyzed tangerine peels of different quality grades in different years, obtained the proportion of chemical components by mass spectrometry analysis, etc., and applied chemical molecules as graph structures to the graph neural network to output the judgment year.",
+    "skill": "GNN"
+  },
+  {
+    "time": "2021.6 — 2021.7",
+    "unit": "Sun Yat-Sen University Textile City Cloth Stall",
+    "name": "Inventory order management and transaction volume, decision analysis system",
+    "role": "All tasks in UI, Software Development and DevOps",
+    "description": "Inventory management, billing and printing, query, fabric inventory, customer management, visualization of transaction volume, profit, customer arrears, etc., machine learning aids decision analysis",
+    "skill": "React/TypeScript、D3js、Tauri、Golang、mongoDB、Redis、FastApi/Python、TensorFlow"
+  },
+  {
+    "time": "2021.3-2021.4",
+    "unit": "Yuanda Logistics",
+    "name": "Logistics delivery management system",
+    "role": "All tasks in UI and Software Development",
+    "description": "Issue a delivery note, a delivery note, print a copy sheet, view the progress of all current orders, the location of the truck, view and query all historical orders, etc.",
+    "skill": "React/TypeScript、SpringBoot/Kotlin、mongoDB、Redis、GPS"
+  },
+  {
+    "time": "2021.2-2021.3",
+    "unit": "School of Life Sciences, Sun Yat-Sen University",
+    "name": "Tutored two-way selection system",
+    "role": "All tasks in UI, Software Development and DevOps",
+    "description": "Develop a tutor selection website, and access WeChat reminders to simplify problems such as requiring students to go to the teacher's office and the email sent to the teacher to check and reply in a timely manner.",
+    "skill": "React/TypeScript、SpringBoot/Java、mongoDB、SMTP"
+  },
+  {
+    "time": "2020.8",
+    "name": "Company reimbursement reporting and approval system",
+    "role": "All tasks in Software Development",
+    "description": "Integrated in the company's corporate WeChat, using django, vue, etc., to solve the problems of untimely exchange of traditional reimbursement information and repeated reporting",
+    "skill": "Vue/JavaScript、Django/Python、MySql、Redis"
+  },
+  {
+    "time": "2020.6-2020.7",
+    "unit": "A laboratory in the School of Physics, Tongji University",
+    "name": "Wind pressure and wind speed monitoring panel",
+    "role": "All tasks in UI and Software Development",
+    "description": "The project mainly monitors information such as wind power in a specific environment, displays real-time changes and historical information on the web page, and captures real-time camera images",
+    "skill": "Django/Python、jQuery"
+  }
+]
